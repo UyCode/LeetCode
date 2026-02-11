@@ -1,8 +1,6 @@
 package org.uycode;
 
-import org.uycode.dp.P5;
-import org.uycode.p.P1295;
-import org.uycode.p.P2302;
+import org.uycode.p._1001_2000.P1295;
 
 import java.io.File;
 import java.io.FileInputStream;
